@@ -1,0 +1,43 @@
+<img src="">
+        <div id="name">Daniel Clifford</div>
+        <div id="verified"></div>
+      </div>
+      <p id="words"> I received a job offer mid-course, and the subjects I learned were current, if not more so, 
+        in the company I joined. I honestly feel I got every penny’s worth.</p>
+      <p id="exp"></p>
+    </div>
+    <div id="testimonial-2 test">
+      <div class="name-graduate">
+        <img src="">
+        <div id="name"></div>
+        <div id="verified"></div>
+      </div>
+      <p id="words"></p>
+      <p id="exp"></p>
+    </div>
+    <div id="testimonial-3 test">
+      <div class="name-graduate">
+        <img src="">
+        <div id="name"></div>
+        <div id="verified"></div>
+      </div>
+      <p id="words"></p>
+      <p id="exp"></p>
+    </div>
+    <div id="testimonial-4 test">
+      <div class="name-graduate">
+        <img src="">
+        <div id="name"></div>
+        <div id="verified"></div>
+      </div>
+      <p id="words"></p>
+      <p id="exp"></p>
+    </div>
+    <div id="testimonial-5 test">
+      <div class="name-graduate">
+        <img src="">
+        <div id="name"></div>
+        <div id="verified"></div>
+      </div>
+      <p id="words"></p>
+      <p id="exp"></p>
